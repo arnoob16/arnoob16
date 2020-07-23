@@ -1,1 +1,1 @@
-## Hey there, <img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Arnab Deep.
+## Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Arnab Deep.
