@@ -1,6 +1,6 @@
 # Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Arnab Deep.
 
-### I am a Pre Final year CS UnderGrad from SRMIST `(KTR Campus)`, Chennai. I am a front-end developer, currently working on a few opensource projects. 
+### I am a pre-final year CS under-grad from SRMIST KTR Campus, Chennai. I am a front-end developer, currently working on a few opensource projects. 
 ### I am the Core Team member of GirlScript Ranchi Chapter and the technical lead of LearnYuva, an emerging ed-tech startup. Recently, I interned as a Web Developer for MissionEd for a period of 1 month. I helped in the development of their official website.
 
 #### Connect with me on - 
