@@ -9,7 +9,7 @@
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arnab16.tech)  ![Visits Badge](https://badges.pufler.dev/visits/arnoob16/arnoob16?style=for-the-badge )
 
 
-<p align = "center">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=40">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=radical">
 </p>
