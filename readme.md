@@ -11,7 +11,7 @@
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:contact.arnab16@gmail.com)
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arnab16.tech)  ![Visits Badge](https://badges.pufler.dev/visits/arnoob16/arnoob16?style=for-the-badge )
 
-#### Tech Stacks
+### Tech Stacks
 
 ###### Learning
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -37,12 +37,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-#### Some of my GitHub Stats
+### Some of my GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=33">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=dark">
 </p>
 
 
-#### What I listen when I code - 
+### What I listen when I code - 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
