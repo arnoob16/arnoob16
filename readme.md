@@ -37,9 +37,12 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+#### Some of my GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=33">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=radical">
 </p>
 
+
+#### What I listen when I code - 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
