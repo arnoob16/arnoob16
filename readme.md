@@ -38,6 +38,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=40">
+    <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=33">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=radical">
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
