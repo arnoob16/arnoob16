@@ -39,7 +39,7 @@
 
 ### Some of my GitHub Stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=33">
+    <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=40">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=dark">
 </p>
 
