@@ -1,7 +1,9 @@
 # Hey there<img src="https://raw.githubusercontent.com/arnoob16/arnoob16/master/wave.gif" width="30px"><br>I am Arnab Deep.
 
-### I am a pre-final year CS under-grad from SRMIST KTR Campus, Chennai. I am a front-end developer, currently working on a few opensource projects. 
-### I am the Core Team member of _GirlScript Ranchi Chapter_ and the technical lead of _LearnYuva_, an emerging ed-tech startup. Recently, I interned as a Web Developer for _MissionEd_ for a period of 1 month. I helped in the development of their official website.
+## I am Arnab Deep, a budding web & app developer. I like making cool stuffs with Java, Python & JavaScript. I am currently pursuing my Bachelor's in Computer Science and I am in my 5th semester. I am a 3 star Competitive coder on Codechef, and getting started with Codeforces as well.
+
+[![Badge](https://cp-logo.vercel.app/codechef/ad2102)](https://www.codechef.com/users/ad2102)
+[![Badge](https://cp-logo.vercel.app/codeforces/arnoob16)](https://codeforces.com/profile/arnoob16)
 
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arnab4srk) 
@@ -14,35 +16,46 @@
 ### Tech Stacks
 
 ###### Learning
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![React](https://img.shields.io/badge/React-%231DA1F2.svg?&style=for-the-badge&logo=React&logoColor=black&color=61DAFB)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ###### Front-End Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ###### Back-End Stack
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
 
 ###### Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c)
 
 ###### Version Control
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
 ### Some of my GitHub Stats
-<p>
+<p align=center>    
     <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=40">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=dark">
 </p>
 
 
 ### What I listen when I code - 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false)](https://github.com/kittinan/spotify-github-profile)
+<p align=center>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoob16"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false">
+
+</p>
