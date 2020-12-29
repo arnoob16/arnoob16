@@ -7,7 +7,7 @@
 
 ---
 
-#### Connect with me on - 
+## Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arnabdeep/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/async_arnab.js/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:contact.arnab16@gmail.com)
@@ -16,7 +16,7 @@
 
 ---
 
-### Tech Stacks
+## Tech Stacks
 
 ###### Learning
 ![React](https://img.shields.io/badge/React-%231DA1F2.svg?&style=for-the-badge&logo=React&logoColor=black&color=61DAFB)
@@ -50,16 +50,15 @@
 
 ---
 
-## <h3 align=center> Trophy Cabinet </h3>
+## <h2 align=center> Trophy Cabinet </h2>
 
 <p align=center>
 <img align=center src="https://github-profile-trophy.vercel.app/?username=arnoob16&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
 </p>
 
+### <h2 align=center>My current streak was maintained listening</h2> 
+|<img src="https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoob16"/>|
+|---|---|
+
 ---
 
-### <h3 align=center>My current streak was maintained listening</h3> 
-<p align=center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoob16"/>
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false">
-</p>
