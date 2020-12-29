@@ -5,12 +5,16 @@
 [![Badge](https://cp-logo.vercel.app/codechef/ad2102)](https://www.codechef.com/users/ad2102)
 [![Badge](https://cp-logo.vercel.app/codeforces/arnoob16)](https://codeforces.com/profile/arnoob16)
 
+---
+
 #### Connect with me on - 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/arnabdeep/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/async_arnab.js/)
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:contact.arnab16@gmail.com)
 [<img src ="https://img.shields.io/badge/Download-Resume-AA00FF.svg?&style=for-the-badge&logo=docusign&logoColor=white%22">](https://arnab16.tech/Assets/images/pics/Arnab_Deep's_Resume.pdf)
 [<img src ="https://img.shields.io/badge/Website-AD-%231877F2.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://arnab16.tech)  ![Visits Badge](https://badges.pufler.dev/visits/arnoob16/arnoob16?style=for-the-badge)
+
+---
 
 ### Tech Stacks
 
@@ -44,17 +48,18 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-### Some of my GitHub Stats
-<p align=center>    
-    <img src="https://github-readme-stats.vercel.app/api?username=arnoob16&show_icons=true&theme=dark&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoob16&theme=dark">
+---
+
+## <h3 align=center> Trophy Cabinet </h3>
+
+<p align=center>
+<img align=center src="https://github-profile-trophy.vercel.app/?username=arnoob16&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
 </p>
 
+---
 
-### My current streak was maintained listening - 
+### <h3 align=center>My current streak was maintained listening</h3> 
 <p align=center>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnoob16"/>
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=ebsz92hxatdvrdbskmjasbzzo&cover_image=false">
-
 </p>
